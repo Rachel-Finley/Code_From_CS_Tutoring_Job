@@ -1,4 +1,0 @@
-This is a test file
-lets get the data out
-I hope that you enjoy python
-enjoy your experience

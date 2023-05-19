@@ -1,5 +1,0 @@
-1:/One of Python’s key benefits is its ability to automate manual, repetitive tasks.
-2:/With Python, you can learn how to automate just about anything by using either built-in modules or pre-written code from its robust library. 
-3:/Or you can write your own custom scripts to perform specific actions. 
-4:/Here’s a fun fact: Python is the top preferred language for data science and research.
-5:/Python can also be found in some of the most complex, artificial intelligence (AI) technologies—and it’s actually one of the preferred languages for AI.
