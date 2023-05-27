@@ -6,7 +6,7 @@ the most current week's material at the time, which was reading, writing, and ap
 The code was written in collab and can be viewed with this link:
 https://colab.research.google.com/drive/1nvCz9Y3zjwkSSOMahy0p96nJFepAa9r1?usp=sharing
 
- ^^^^Note: The preview for the .ipnyb file is not rendering, so use this to view ^^^^
+ ^^^^Note: The preview for the .ipnyb file is not rendering, so use this to view the code^^^^
 
 Topics covered include:
 - Reading, writing, and appending to files
