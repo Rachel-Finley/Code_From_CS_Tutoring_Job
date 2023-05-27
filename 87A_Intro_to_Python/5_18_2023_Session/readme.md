@@ -7,3 +7,17 @@ The code was written in collab and can be viewed with this link:
 https://colab.research.google.com/drive/1nvCz9Y3zjwkSSOMahy0p96nJFepAa9r1?usp=sharing
 
  ^^^^Note: The preview for the .ipnyb file is not rendering, so use this to view ^^^^
+
+Topics covered include:
+- Reading, writing, and appending to files
+- The Usage of F-Strings
+- Functions Review
+- Strings Review
+- Lists Review
+- Indexing Review for both Strings and Lists
+- Saving a List to a File
+- The Usage of Enumerate
+- Dictionaries Review
+- Conditionals Review
+- Saving a Dictionary to a File
+- While Loops Review
