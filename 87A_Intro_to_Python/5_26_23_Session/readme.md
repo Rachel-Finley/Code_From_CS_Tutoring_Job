@@ -5,3 +5,4 @@ Topics covered include:
 - The usage of packages to solve the specific problems we want to solve
 - The usage of F-Strings
 - Functions
+- Conditionals with Type Comparisons
